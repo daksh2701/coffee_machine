@@ -38,27 +38,7 @@ A modern, interactive coffee ordering system built with Python and Streamlit. Th
 - Python 3.7 or higher
 - pip (Python package installer)
 
-### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/coffee-machine.git
-   cd coffee-machine
-   ```
-
-2. **Install required packages**
-   ```bash
-   pip install streamlit
-   ```
-
-3. **Run the application**
-   ```bash
-   streamlit run coffee_machine.py
-   ```
-
-4. **Open your browser**
-   - The application will automatically open at `http://localhost:8501`
-   - If it doesn't open automatically, navigate to the URL shown in your terminal
 
 ## 📱 How to Use
 
